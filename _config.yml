@@ -22,8 +22,8 @@ navigation:
    url: /about/index.html
  - title: Data
    url: /data/index.html
- - title: History
-   url: /history/index.html
+ - title: Knoedler
+   url: /knoedler/index.html
  - title: Visualization
    url: /visualization/index.html
 
