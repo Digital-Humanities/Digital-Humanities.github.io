@@ -11,7 +11,7 @@ link: http://www.davey.com/media/1001/home-tree.png
       <h1><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}</h1>
 
       <div class="entry">
-        {{ 
+        {{post}}
 <h3>Resources</h3>
 <p>Below is a list of resources we found useful during our project. They are divided into four categories, general, visualization programs, examples of successful Digital Humanities projects and some art market specific resources.</p>
 
@@ -52,7 +52,7 @@ Titia Hulst, â€œDocumenting the Post-War Audience for American Avant-Garde Artâ€
 
 
   
-   }}
+  
       </div>
 
     </article>
