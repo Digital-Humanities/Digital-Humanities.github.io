@@ -26,6 +26,8 @@ navigation:
    url: /History/index.html
  - title: Visualization
    url: /visualization/index.html
+ - title: Google Spreadsheets
+   url: /visualization/Google.html
  - title: Resources
    url: /resources/index.html
  
