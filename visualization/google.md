@@ -2,7 +2,7 @@
 title: Google Spreadsheets
 layout: visualization
 ---
-<figure class="inline-figure">
+<figure class=".line-figure">
   <img src="http://i.imgur.com/pn5gCGX.png?1" title="1910 dataset" alt="1910 dataset"> 
 </figure>
 
