@@ -106,11 +106,7 @@ strong, b {
   font-weight: bold;
 }
 
-img  {
-  padding-top: 25px;
-  padding-right: 50px;
-  padding-bottom: 25px;
-  padding-left: 50px;
+img {
   max-width: 100%;
 }
 
@@ -239,6 +235,17 @@ nav {
       color: $blue;
     }
   }
+}
+
+.inline-figure {
+  float: right;
+  padding-bottom: 25px;
+  padding-left: 50px;
+  max-width: 100%;
+}
+
+.inline-figure figcaption {
+  font-style: italic;
 }
 
 //
