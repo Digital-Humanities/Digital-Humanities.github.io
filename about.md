@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /About/
 ---
 ### Getty Graduate Intern Digital Humanities Project
 
