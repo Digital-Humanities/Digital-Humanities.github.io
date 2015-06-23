@@ -5,8 +5,7 @@ permalink: /history/
 ---
 ### History
 
-
-<img src="http://i.imgur.com/xdzfPXe.jpg" title="knoedler" alt="knoedler"> 
+<img style="float: right" src="http://i.imgur.com/xdzfPXe.jpg" title="knoedler" alt="knoedler"> 
 
 
 The Knoedler Gallery was originally established as a branch of Paris’ Goupil et Cie Gallery. However, the founder, Michel Knoedler, quickly realized the potential of the American market. He decided to capitalize on it, buying out Goupil's New York branch after ten years. The newly formed Knoedler Gallery transitioned from specializing in French Salon paintings, the crux of the art market industry, to exploring the relatively new field of Old Masters and American artists. With notable clients such as [the Astors](http://www.britannica.com/topic/Astor-family), [the Vanderbilts](https://en.wikipedia.org/wiki/Vanderbilt_family), [J.P. Morgan](http://www.themorgan.org/about/pierpont-morgan-collector/1), [Henry Clay Frick](http://www.frick.org/collection/history/henry_clay_frick) and others, [Knoedler stock books](http://primo.getty.edu/GRI:GETTY_ALMA21129976460001551) read like a veritable who’s who of late 19th- and early 20th-century American society.

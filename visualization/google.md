@@ -2,9 +2,9 @@
 title: Google Spreadsheets
 layout: visualization
 ---
-<figure class= ".inline-figure">
-  <img src="http://i.imgur.com/pn5gCGX.png?1" title="1910 dataset" alt="1910 dataset"> 
-</figure>
+<img style= "float left"
+  src="http://i.imgur.com/pn5gCGX.png?1" title="1910 dataset" alt="1910 dataset"> 
+
 
 Making visualizations of this data is the fun part, at least for us. Finally, you get to take the data that you’ve carefully collected and structured, and plug it into programs to see what happens. As a relative novices with technology, we stuck to some basic tools to create some basic, yet still enlightening visualizations.
 
