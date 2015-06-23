@@ -2,7 +2,7 @@
 title: Google Spreadsheets
 layout: visualization
 ---
-<figure class=".line-figure">
+<figure class= ".inline-figure">
   <img src="http://i.imgur.com/pn5gCGX.png?1" title="1910 dataset" alt="1910 dataset"> 
 </figure>
 
@@ -13,6 +13,7 @@ Our first data experiment was with Google Spreadsheets. We decided to take a loo
 To discover this, we created simple pie charts, achieved by plugging a curated amount of data into a Google spreadsheet. We only included the information needed for the visualization, so the data set is quite simple. We made three spreadsheets, one for each decade.
 
 Google makes this process streamlined, and it’s similar enough to Excel to have a relatively small learning curve. In fact, we used Excel first with the large set of data containing all decades. Then filtering by date and copy/pasting the decades into separate Google spreadsheets made it easy to count each nationality, make a two-columned table, and from there, use Google’s “Insert Chart” tool to choose pie graph. The program is smart enough to suggest which chart would work with your data, and has options ranging from pie and bar graph to more complex histograms and scatter plots.
+
 
 ![1890s](http://i.imgur.com/SVWjtBY.png?1 "1890s")
 ![1900s](http://i.imgur.com/Pn04dSr.png?1 "1900s")
