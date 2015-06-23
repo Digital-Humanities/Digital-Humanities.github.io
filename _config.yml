@@ -26,7 +26,7 @@ navigation:
  - title: Data
    url: /data/index.html
  - title: History
-   url: /history/index.html
+   url: /history/
  - title: Visualization
    url: /visualization/index.html
  - title: Resources
