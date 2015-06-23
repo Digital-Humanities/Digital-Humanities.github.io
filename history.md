@@ -1,7 +1,7 @@
 ---
 layout: default
 title: History
-permalink: /history/
+permalink: /History/
 ---
 ### History
 

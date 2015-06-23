@@ -1,7 +1,7 @@
 ---
 layout: visualization
 title: Visualization
-permalink: /visualization/
+permalink: /Visualization/
 ---
 
 <a href="#">

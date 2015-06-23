@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data
-permalink: /data/
+permalink: /Data/
 ---
 ### Our Data
 
